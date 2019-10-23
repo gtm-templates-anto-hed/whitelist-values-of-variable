@@ -1,4 +1,3 @@
 versions:
-  # First version
   - sha: 9f6d258242e9c2e901b704b137abc15cb97fb18b
     changeNotes: Initial release
