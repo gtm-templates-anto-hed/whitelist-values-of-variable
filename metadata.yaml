@@ -1,6 +1,6 @@
 versions:
   # Latest version
-  - sha: b9c7ba9ecb4eb8d4b3b74264d9d78214870b44e7
+  - sha: e8fb462af6b032a86eee92a11d3d40d89217dd65
     changeNotes: |1
       Change name of template
   # Older versions
