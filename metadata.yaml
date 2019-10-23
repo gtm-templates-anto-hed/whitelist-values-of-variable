@@ -1,10 +1,10 @@
 versions:
-  # Latest version
+  # Last version
   - sha: b9c7ba9ecb4eb8d4b3b74264d9d78214870b44e7
     changeNotes: |2
-      Change Name
+      Change name of template
    
    # Older versions
     - sha: 9f6d258242e9c2e901b704b137abc15cb97fb18b
-    changeNotes: Initial release
+    changeNotes: Initial release.
     
