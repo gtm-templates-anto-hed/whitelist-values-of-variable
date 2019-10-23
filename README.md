@@ -1,4 +1,4 @@
-# Withelist Values of Variable
+# Whitelist Values of Variable
 
 ## Description
 
@@ -8,7 +8,7 @@ List of authorized values from a defined variable, return true if the value is p
 
 You want to trigger tags only on some domains without having to make a long and unreadable domain name regex. You can easily built a list of authorized Hostname.
 
-Created a variable "Withelist Values Of Variable"
+Created a variable "Whitelist Values Of Variable"
 
 In the variable Input, selected {{Page Hostname}}
 
@@ -19,6 +19,6 @@ In the value listing table, enter your hostnames to authorize :
 | domain-1.staging.com  | true  |
 | domaine-1.live.com  | true  |
 
-Configure the trigger of a Google Analytics Page View Tag and apply a condition "true" based on the "Withelist Values Of Variable" variable.
+Configure the trigger of a Google Analytics Page View Tag and apply a condition "true" based on the "Whitelist Values Of Variable" variable.
 
-The tag will be trigger only on whitelist hostnames renseigned
+The tag will be trigger only on Whitelist hostnames renseigned
