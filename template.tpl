@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Whitelist Values of Variable",
-  "categories": ["UTILITY"],
+  "categories": ["ANALYTICS"],
   "description": "List of authorized values from a defined variable, return true if the value is present or false if the value isn't present.",
   "containerContexts": [
     "WEB"
