@@ -1,4 +1,4 @@
-﻿___TERMS_OF_SERVICE___
+___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
@@ -41,7 +41,7 @@ ___TEMPLATE_PARAMETERS___
   },
   {
     "type": "SIMPLE_TABLE",
-    "name": "simpleTable1Domains",
+    "name": "simpleTable1",
     "displayName": "Value(s) listing",
     "simpleTableColumns": [
       {
@@ -54,6 +54,21 @@ ___TEMPLATE_PARAMETERS___
     "help": "Enter your listing values to check in selected variable"
   }
 ]
+
+
+___SANDBOXED_JS_FOR_WEB_TEMPLATE___
+
+// Enter your template code here.
+const log = require('logToConsole');
+
+const dropDownMenu1 = data.dropDownMenu1;
+const simpleTable1 = data.simpleTable1;
+
+for (var i = 0; i < data.simpleTable1.length; i++){
+  if(data.simpleTable1[i].column1 === dropDownMenu1){
+    return true;
+  }
+}
 
 
 ___WEB_PERMISSIONS___
