@@ -1,8 +1,11 @@
 versions:
   # Latest version
-  - sha: e8fb462af6b032a86eee92a11d3d40d89217dd65
-    changeNotes: |2
-      Change name of template
+  - sha: 0de680701ada5efd2cdcfc628df31eed13824237
+    changeNotes: |3
+      Bug resolution
+
   # Older versions
+  - sha: e8fb462af6b032a86eee92a11d3d40d89217dd65
+    changeNotes: Change name of template
   - sha: 9f6d258242e9c2e901b704b137abc15cb97fb18b
     changeNotes: Initial release.
