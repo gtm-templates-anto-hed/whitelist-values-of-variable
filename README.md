@@ -2,7 +2,7 @@
 
 ## Description
 
-List of authorized values from a defined variable, return true if the value is present or false if the value isn't present.
+List of authorized values from a defined variable, return true if the value is present.
 
 ## Exemple
 
