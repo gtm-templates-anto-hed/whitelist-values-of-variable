@@ -2,8 +2,7 @@ versions:
   # Latest version
   - sha: 0de680701ada5efd2cdcfc628df31eed13824237
     changeNotes: |2
-      Bug resolution
-
+      Fix bug with
   # Older versions
   - sha: e8fb462af6b032a86eee92a11d3d40d89217dd65
     changeNotes: Change name of template
