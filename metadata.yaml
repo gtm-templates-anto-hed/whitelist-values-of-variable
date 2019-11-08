@@ -1,7 +1,7 @@
 versions:
   # Latest version
   - sha: 0de680701ada5efd2cdcfc628df31eed13824237
-    changeNotes: |3
+    changeNotes: |2
       Bug resolution
 
   # Older versions
