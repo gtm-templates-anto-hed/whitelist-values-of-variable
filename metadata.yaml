@@ -1,3 +1,8 @@
 versions:
+  # Latest version
   - sha: c34c1b8ab921f817aeac87173378c3f4c5e17d37
+    changeNotes: |1
+      Fix bug
+  # Older versions
+  - sha: 0de680701ada5efd2cdcfc628df31eed13824237
     changeNotes: Initial release.
