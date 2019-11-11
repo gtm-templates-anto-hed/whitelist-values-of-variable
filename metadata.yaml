@@ -1,3 +1,4 @@
+documentation: "https://github.com/gtm-templates-anto-hed/whitelist-values-of-variable",
 versions:
   - sha: c34c1b8ab921f817aeac87173378c3f4c5e17d37
     changeNotes: Initial release.
