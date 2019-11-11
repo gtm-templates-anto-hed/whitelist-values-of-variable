@@ -1,3 +1,9 @@
 versions:
+  # Latest version
   - sha: 6a9b901afea2c658db85ebb3b76026d062caa6ac
+    changeNotes: Fix bug in loop
+  # Older versions
+  - sha: 0de680701ada5efd2cdcfc628df31eed13824237
+    changeNotes: Change metadata
+  - sha: e8fb462af6b032a86eee92a11d3d40d89217dd65
     changeNotes: Initial release.
