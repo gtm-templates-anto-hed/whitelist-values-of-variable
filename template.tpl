@@ -15,8 +15,7 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Whitelist Values of Variable",
   "categories": ["ANALYTICS"],
-  "description": "List of authorized values from a defined variable, return true if the value is present or false if the value isn't present.",
-  "containerContexts": [
+  "description": "List of authorized values from a defined variable, return true if the value is present or false if the value isn't present.": [
     "WEB"
   ],
   "brand": {}
@@ -106,9 +105,6 @@ const simpleTable1Domains = data.simpleTable1Domains;
 for (var i = 0; i < data.simpleTable1Domains.length; i++){
   if(data.simpleTable1Domains[i].column1 === dropDownMenu1){
     return true;
-  }
-  else {
-    return false;
   }
 }
 
