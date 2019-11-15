@@ -2,7 +2,7 @@
 
 ## Description
 
-List of authorized values from a defined variable, return true if the value is present.
+A very simplified lookup table with list of authorized values from a defined variable. Return true if the value is present.
 
 ## Exemple
 
