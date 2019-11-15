@@ -8,9 +8,9 @@ A very simplified lookup table with list of authorized values from a defined var
 
 You want to trigger tags only on some domains without having to make a long and unreadable domain name regex. You can easily built a list of authorized Hostname.
 
-Created a variable "Whitelist Values Of Variable"
+Create a variable "Whitelist Values Of Variable"
 
-In the variable Input, selected {{Page Hostname}}
+In the variable Input, selecte {{Page Hostname}}
 
 In the value listing table, enter your hostnames to authorize :
 
