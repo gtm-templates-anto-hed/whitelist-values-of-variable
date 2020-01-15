@@ -1,3 +1,5 @@
+homepage: "https://antoine-hervillard.com/"
+documentation: "https://github.com/gtm-templates-anto-hed/whitelist-values-of-variable/blob/master/README.md"
 versions:
   - sha: 52911a126f2d44ed14877b61fa1e930b5d39f34b
     changeNotes: Initial release.
